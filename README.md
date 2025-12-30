@@ -21,7 +21,7 @@ This analysis integrates the following cleaned and standardized datasets:
 
 All tract-level datasets are joined using a standardized GEOID, while flood exposure is derived through spatial intersection with FEMA floodplain polygons (see _data/_ for questions).
 
-The analysis will be based on the cleaned master dataset, which includes the following fields:
+The analysis will be based on the cleaned master dataset, which includes 84 fields, among them:
 * "geoid": 11-digit census tract GEOID (state+county+tract). Join key.
 * "acs_median_hh_income": ACS median household income (USD).
 * "acs_population": ACS total population estimate.
