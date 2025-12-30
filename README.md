@@ -18,6 +18,7 @@ This analysis integrates the following cleaned and standardized datasets:
 * FEMA National Risk Index (NRI) – multi-hazard risk metrics and expected annual loss estimates
 * FEMA National Flood Hazard Layer (NFHL) – spatial floodplain boundaries used to determine physical flood exposure
 * NOAA Billion-Dollar Disasters – historical context on the frequency and cost of extreme climate events
+
 All tract-level datasets are joined using a standardized GEOID, while flood exposure is derived through spatial intersection with FEMA floodplain polygons (see _data/_ for questions).
 
 The analysis will be based on the cleaned master dataset, which includes the following fields:
