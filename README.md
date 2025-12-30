@@ -26,7 +26,7 @@ The analysis will be based on the cleaned master dataset, which includes the fol
 * "acs_median_hh_income": ACS median household income (USD).
 * "acs_population": ACS total population estimate.
 * "svi_overall_pctile": CDC SVI overall percentile (0-1, higher = more vulnerable).
-* "nri_composite_score": FEMA NRI composite risk score."
+* "nri_composite_score": FEMA NRI composite risk score.
 * "nri_eal_total_usd": FEMA NRI expected annual loss (USD), composite.
 * "nfhl_in_floodplain": Boolean: tract intersects FEMA NFHL flood zone polygons.
 
