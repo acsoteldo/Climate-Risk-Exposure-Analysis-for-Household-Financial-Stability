@@ -30,7 +30,7 @@ The analysis will be based on the cleaned master dataset, which has 84 fields, i
 * "nri_eal_total_usd": FEMA NRI expected annual loss (USD), composite.
 * "nfhl_in_floodplain": Boolean: tract intersects FEMA NFHL flood zone polygons.
 
-geographic_note:
+geographic_note[^1]:
   All analysis is conducted at the census tract level.
   City and ZIP fields are provided for interpretability.
   
@@ -78,8 +78,8 @@ The level of data science and machine learning talent within an organization pos
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
 
 ## References
-[^1]: Data Source: Kaggle
-https://www.kaggle.com/datasets/meghaha/tech-trend
+[^1]: Data Source: Census Tiger
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
 
 [^2]: Impact of Machine Learning Across Various Industries
 https://www.linkedin.com/pulse/impact-machine-learning-across-various-industries-thecodework-ja9vc/
