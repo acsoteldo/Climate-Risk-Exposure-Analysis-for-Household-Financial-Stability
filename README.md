@@ -30,9 +30,7 @@ The analysis will be based on the cleaned master dataset, which has 84 fields, i
 * "nri_eal_total_usd": FEMA NRI expected annual loss (USD), composite.
 * "nfhl_in_floodplain": Boolean: tract intersects FEMA NFHL flood zone polygons.
 
-geographic_note[^6]:
-  All analysis is conducted at the census tract level.
-  City and ZIP fields are provided for interpretability.
+Geographic Note: All analysis is conducted at the census tract level. City and ZIP fields are provided for interpretability [^6].
   
 
 ## Problem Definition
