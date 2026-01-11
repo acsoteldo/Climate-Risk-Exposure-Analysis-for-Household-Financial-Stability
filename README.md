@@ -1,5 +1,5 @@
 # Climate Risk Exposure Analysis for Household Financial Stability
-Analyzing Hazard Exposure, Wealth Risk, and Policy Implications Across Census Tracts
+Assess how climate-related hazards expose households to financial instability, framed for wealth risk and policy decision-making.
 
 ## Getting Started: 
 1. Report and presentation
